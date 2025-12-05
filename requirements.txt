@@ -1,0 +1,16 @@
+autogen
+pyautogen
+autogen-agentchat
+autogen-ext[openai, azure, docker]
+autogenstudio
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+flask
+flask-cors
+python-dotenv
+werkzeug
+xgboost
